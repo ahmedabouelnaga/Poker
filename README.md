@@ -51,5 +51,6 @@ The Poker game is implemented using the provided templates for classes: `Card`, 
 3. `Game.java`: Main game logic.
 4. `Player.java`: Represents a player, including their tokens and actions.
 5. `TestPoker.java`: Test class for verifying the game logic.
+6. `readMe.txt`: Explains the implementation details and usage instructions.
 
    
